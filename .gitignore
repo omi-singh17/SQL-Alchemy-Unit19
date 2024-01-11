@@ -1,3 +1,11 @@
+# Custom
+.ipynb_checkpoints/
+LocalSQLConnection.py
+country_club.sql
+members.sql
+SQLTasks Tier 2.sql
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
