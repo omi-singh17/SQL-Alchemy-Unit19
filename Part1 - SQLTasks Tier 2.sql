@@ -1,8 +1,16 @@
-/*Note: I wasn't certain about the expected format for this two-part submission, currently I have divided both parts into individual files. Please let me know if any changes are needed.
+/*
+Hi Wayne, 
+Good morning, Apologies for that, the repo was accidentally set as private.
 
 Solutions to part 1 are in this file below each question as per instructions, solutions to part two are in Jupyter Notebook.
 
-Thank You! */
+Please let me know if any changes are needed, to the submission format or understanding of usage in later questions.
+
+Thank You! 
+
+Regards,
+Omi
+*/
 
 /* Welcome to the SQL mini project. You will carry out this project partly in
 the PHPMyAdmin interface, and partly in Jupyter via a Python connection.
